@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">CarSpinner</string>
+    <string-array name="Car">
+        <item>marutisuzuki</item>
+        <item>Tata</item>
+        <item>Mahindra</item>
+        <item>Audi</item>
+        <item>Honda</item>
+    </string-array>
+
+    <string-array name="marutisuzukiModel">
+        <item>Baleno</item>
+        <item>Swift</item>
+        <item>WagonR</item>
+        <item>Alto</item>
+        <item>Ertiga</item>
+        <item>Vitara Brezza</item>
+        <item>Dzire</item>
+        <item>Celerio</item>
+        <item>S-presso</item>
+        <item>XL6</item>
+        <item>Ciaz</item>
+        <item>S-cross</item>
+        <item>Eeco</item>
+
+    </string-array>
+
+    <string-array name="TataModel">
+        <item>Nexon</item>
+        <item>Nexon EV</item>
+        <item>Punch</item>
+        <item>Tiago</item>
+        <item>Tigro EV</item>
+        <item>Trigo NRG</item>
+        <item>Altroz</item>
+        <item>Altrox EV</item>
+        <item>Harrier</item>
+        <item>Safari</item>
+    </string-array>
+
+    <string-array name="MahindraModel">
+        <item>Thar</item>
+        <item>XUV700</item>
+        <item>XUV500</item>
+        <item>XUV300</item>
+        <item>XUV300 Electric</item>
+        <item>eKUV100</item>
+        <item>KUV100 NXT</item>
+        <item>Scorpio</item>
+        <item>Bolero</item>
+        <item>Marazzo</item>
+        <item>Alturas G4</item>
+    </string-array>
+
+    <string-array name="AudiModel">
+        <item>Audi A6</item>
+        <item>Audi A4</item>
+        <item>Audi A8</item>
+        <item>Audi Q2</item>
+        <item>Audi Q5</item>
+        <item>Audi Q8</item>
+        <item>Audi RS7</item>
+        <item>Audi e-Tron</item>
+        <item>Audi e-Tron GT</item>
+        <item>Audi Rs e-Tron GT</item>
+        <item>Rs Q8</item>
+        <item>Rs 5</item>
+        <item>S5 SportBack</item>
+    </string-array>
+
+    <string-array name="HondaModel">
+        <item>Honda City</item>
+        <item>Honda City 4th</item>
+        <item>Amaze</item>
+        <item>Jazz</item>
+        <item>WR-V</item>
+        <item>HR-V</item>
+        <item>Brio</item>
+    </string-array>
+</resources>
